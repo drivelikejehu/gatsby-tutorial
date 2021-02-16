@@ -8,7 +8,7 @@ const examples = ({ data }) => {
 
   const {
     site: {
-      info: { author },
+      info: { author }, 
     },
   } = data
 
